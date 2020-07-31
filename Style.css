@@ -55,7 +55,7 @@ html{
       background-color: #fff;
     }
   
-    #landing-btn {
+    #index-btn {
       /* box model */
       height: 50px;
       padding-top: 15px;
@@ -73,7 +73,7 @@ html{
     }
   
   /* Logo hover state */
-  #landing-btn:hover {
+  #index-btn:hover {
       /* Visual */
       opacity: 0.7;
   }
